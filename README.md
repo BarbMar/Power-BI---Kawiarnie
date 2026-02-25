@@ -1,4 +1,4 @@
-This Power BI report was created in Odczaruj.
+This Power BI report was created based on the video Odczaruj Power BI available on youtube and the data for its preparation come from this training.
 Data was downloaded to Power BI from Excel and csv files.
 
 Report in Power BI is available at this link:
